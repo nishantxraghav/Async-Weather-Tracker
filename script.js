@@ -1,4 +1,4 @@
-const apiKey = "852a6420a51b0faa2a46be1752bdaba8";
+const apiKey = "c0973228b54f828d1d7ebd0a6dfd1589";
 
 console.log("1️⃣ Script start");
 
